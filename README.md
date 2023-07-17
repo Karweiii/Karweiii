@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karweiii
 - 👀 I’m interested in software development and machine learning
-- 🌱 I’m currently studying Diploma in ICT with a specialism in software engineering at Asia Pacific University (APU)
-- 💞️ I’m looking for a internship to enhance my skill and get some experience
+- 🌱 I’m currently studying Bachelor Degree in software engineering at Sunway University
+
 
 
 <!---
