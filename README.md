@@ -24,6 +24,7 @@ Intelligent Course Consultation System: An AI-powered chatbot for university cou
 
 
 🎯 What I'm Looking For
+
 🚀 Entry-level roles in software development, machine learning, or AI.
 
 🌱 Opportunities to grow, learn, and contribute to impactful projects.
