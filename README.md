@@ -33,7 +33,7 @@ Intelligent Course Consultation System: An AI-powered chatbot for university cou
 📫 Let's Connect!
 I’m always open to discussing new opportunities, collaborations, or just chatting about tech! Feel free to reach out:
 
-💼 [Connect with me on LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tkarwei/))
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/tkarwei/)
 
 ✉️ Email: karwei2002@gmail.com
 
