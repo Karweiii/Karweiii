@@ -16,8 +16,6 @@ Intelligent Course Consultation System: An AI-powered chatbot for university cou
 
 🌱 Opportunities to grow, learn, and contribute to impactful projects.
 
-💼 Open to internships, freelance work, or full-time positions.
-
 📫 Let's Connect!
 I’m always open to discussing new opportunities, collaborations, or just chatting about tech! Feel free to reach out:
 
