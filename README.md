@@ -6,19 +6,6 @@ I'm a fresh graduate in Software Engineering from Sunway University, passionate 
 
 💡 Actively exploring machine learning, AI, and full-stack development to solve real-world problems.
 
-🛠️ Building personal projects to showcase my skills and learn new technologies.
-
-🛠️ Technical Skills
-Programming Languages: Python, Java, JavaScript, C++
-
-Web Development: HTML, CSS, React, Node.js, Flask/Django
-
-Machine Learning: TensorFlow, PyTorch, Scikit-learn
-
-Tools: Git, Docker, VS Code, Jupyter Notebook
-
-Databases: MySQL, PostgreSQL, MongoDB
-
 📂 Featured Projects
 Intelligent Course Consultation System: An AI-powered chatbot for university course recommendations using the RAG technique.
 
